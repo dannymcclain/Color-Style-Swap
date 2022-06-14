@@ -1,0 +1,9 @@
+{
+  "name": "Color Style Swap",
+  "id": "1118619014862729851",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figjam"
+  ]
+}
